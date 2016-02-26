@@ -1,3 +1,10 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
 # Built application files
 *.apk
 *.ap_
@@ -27,6 +34,10 @@ proguard/
 
 # Android Studio Navigation editor temp files
 .navigation/
+.idea/
 
 # Android Studio captures folder
 captures/
+
+beacon.iml
+app/app.iml
